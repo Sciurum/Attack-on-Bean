@@ -9,12 +9,12 @@ ONLY WORKS ON OCULUS QUESTS FOR NOW
 Install attack-on-bean via [releases](https://github.com/Sciurum/Attack-on-Bean/releases) 
 
 
-```bas
-  Download Attack-On-Bean from releases
+```bash
+  Download Attack On Bean from releases
   Plug your VR Headset into your pc
-  (If this is your first time plugging your quest into 
-  your computer accpet the file access prompt)
-  Run the main 'Attack-On-Bean' file
+  If this is your first time plugging your quest into 
+  your computer accpet the file access prompt
+  Run the main 'Attack On Bean' file
 ```
     
 ## Features
