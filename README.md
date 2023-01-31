@@ -15,8 +15,8 @@ Requirements:
 
 ```bash
   Download the .apk file from releases
-  Follow UploadVR's guide to sideload your headset
-  Launch 'Attack On Bean' from Unknown Sources library
+  Follow the UploadVR guide to sideload your headset
+  Launch "Attack On Bean" from Unknown Sources library
 ```
     
 ## Features
