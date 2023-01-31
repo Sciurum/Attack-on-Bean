@@ -2,19 +2,21 @@
 [VR] [SANDBOX] [META/OCULUS QUEST]
 
 Attack On Bean is a sandbox VR game in which you can move around and interact with physics props. The goal of the game is to destory all of the physics objects in the map.
+
 ## Installation
 
-ONLY WORKS ON OCULUS QUESTS FOR NOW
+ONLY WORKS ON OCULUS QUEST 1/2 FOR NOW
 
-Install attack-on-bean via [releases](https://github.com/Sciurum/Attack-on-Bean/releases) 
+Requirements:
+- [.apk file from releases](https://github.com/Sciurum/Attack-on-Bean/releases)
+- [SideQuest](https://sidequestvr.com/setup-howto)
+- [UploadVR Guide](https://uploadvr.com/sideloading-quest-how-to/)
 
 
 ```bash
-  Download Attack On Bean from releases
-  Plug your VR Headset into your pc
-  If this is your first time plugging your quest into 
-  your computer accpet the file access prompt
-  Run the main 'Attack On Bean' file
+  Download the .apk file from releases
+  Follow UploadVR's guide to sideload your headset
+  Launch 'Attack On Bean' from Unknown Sources library
 ```
     
 ## Features
