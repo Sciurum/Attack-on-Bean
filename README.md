@@ -7,7 +7,7 @@ Attack On Bean is a sandbox VR game in which you can move around and interact wi
 
 ONLY WORKS ON OCULUS QUEST 1/2 FOR NOW
 
-## Requirements:
+## Requirements
 
 - [The .apk file from releases](https://github.com/Sciurum/Attack-on-Bean/releases)
 - [SideQuest](https://sidequestvr.com/setup-howto)
