@@ -23,16 +23,6 @@ Install attack-on-bean via [releases](https://github.com/Sciurum/Attack-on-Bean/
 - 0 Tools
 - Singleplayer
 
-
-## Roadmap
-
-- Create tools [----------] ❌
-
-- Crumbling physics props [----------] ❌
-
-- Menus [==--------] ❌
-
-- Multiplayer [----------] ❌
 ## Authors
 
 - [@sirmrpickle](https://www.github.com/sirmrpickle)
